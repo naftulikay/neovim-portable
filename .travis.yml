@@ -1,0 +1,13 @@
+---
+dist: xenial
+
+language: minimal
+
+services: [docker]
+
+script: docker build -t naftulikay/neovim-portable:latest .
+
+notifications:
+  email:
+    on_success: never
+    on_failure: never

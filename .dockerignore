@@ -1,0 +1,5 @@
+.git
+.vagrant
+Vagrantfile
+ansible.cfg
+vagrant.yml
