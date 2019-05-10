@@ -9,5 +9,5 @@ Licensed at your discretion under either:
  - [Apache Software License, Version 2.0](./LICENSE-APACHE)
  - [MIT License](./LICENSE-MIT)
 
- [travis]: https://github.com/naftulikay/neovim-portable
- [travis.svg]: https://github.com/naftulikay/neovim-portable.svg?branch=master
+ [travis]: https://travis-ci.org/naftulikay/neovim-portable
+ [travis.svg]: https://travis-ci.org/naftulikay/neovim-portable.svg?branch=master
